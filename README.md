@@ -2,7 +2,7 @@
 
 Olá, me chamo Gadiel Souza, Sou um estudante de Análise de Sistemas, apaixonado por tecnologias e em constante aprendizado. Desde que eu iniciei a faculdade me interessei pela área de desenvolvimento web, e desde então tenho estudado para conseguir minha primeira oportunidade nessa área. Me considero uma pessoa tranquila, possuo facilidade de aprendizado, e meus hobbies são jogar jogos e assistir filmes e séries.
 
-Possuo conhecimentos tanto no front end quanto no back end, desde a criação de interfaces até a criação e manipulação de banco de dados e APIs. As principais tecnologias que uso para isso são React, Node, Express, Typescript e MySQL, e atualmente estou focando em aprender Java.
+Possuo conhecimentos tanto no front end quanto no back end, desde a criação de interfaces até a criação e manipulação de banco de dados e APIs. As principais tecnologias que uso para isso são Java, Spring Boot, MySQL e React.
 
 ## Minhas redes
 
