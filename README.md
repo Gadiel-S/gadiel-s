@@ -25,6 +25,7 @@ Possuo conhecimentos tanto no front end quanto no back end, desde a criação de
 ## Projetos em Destaque
 
 [![Sistema Gerenciador de Condomínios](https://github-readme-stats.vercel.app/api/pin/?username=Gadiel-S&repo=gerenciador_condominios&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Gadiel-S/gerenciador_condominios)
+[![Sistema gerenciamento de pedidos](https://github-readme-stats.vercel.app/api/pin/?username=Gadiel-S&repo=hibernate&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Gadiel-S/hibernate)
 
 ## Github Stats
 
