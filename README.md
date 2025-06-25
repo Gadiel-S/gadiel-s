@@ -30,7 +30,7 @@ Possuo conhecimentos tanto no front end quanto no back end, desde a criação de
 ## Github Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gadiel-S&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Gadiel-S&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gadiel-S&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gadiel-s/gadiel-s/output/github-contribution-grid-snake-dark.svg">
