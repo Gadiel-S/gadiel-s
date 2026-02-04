@@ -24,13 +24,27 @@ Possuo conhecimentos tanto no front end quanto no back end, desde a criação de
 
 ## Projetos em Destaque
 
-[![Sistema Gerenciador de Condomínios](https://github-readme-stats.vercel.app/api/pin/?username=Gadiel-S&repo=gerenciador_condominios&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Gadiel-S/gerenciador_condominios)
-[![rest-with-spring-boot](https://github-readme-stats.vercel.app/api/pin/?username=Gadiel-S&repo=rest-with-spring-boot&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF&cache_seconds=172800)](https://github.com/Gadiel-S/rest-with-spring-boot)
+<a href="https://github.com/Gadiel-S/gerenciador_condominios">
+  <img
+    src="https://opengraph.githubassets.com/1/Gadiel-S/gerenciador_condominios"
+    alt="Sistema Gerenciador de Condomínios"
+    width="400"
+  />
+</a>
+
+<a href="https://github.com/Gadiel-S/rest-with-spring-boot">
+  <img
+    src="https://opengraph.githubassets.com/1/Gadiel-S/rest-with-spring-boot"
+    alt="Rest with Spring Boot"
+    width="400"
+  />
+</a>
 
 ## Github Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gadiel-S&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gadiel-S&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+![](https://raw.githubusercontent.com/Gadiel-S/gadiel-s/main/profile-summary-card-output/github_dark/0-profile-details.svg)
+![](https://raw.githubusercontent.com/Gadiel-S/gadiel-s/main/profile-summary-card-output/github_dark/3-stats.svg)
+![](https://raw.githubusercontent.com/Gadiel-S/gadiel-s/main/profile-summary-card-output/github_dark/1-repos-per-language.svg)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gadiel-s/gadiel-s/output/github-contribution-grid-snake-dark.svg">
