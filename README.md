@@ -1,8 +1,10 @@
 # Bem-Vindo(a) ao meu Perfil, me chamo Gadiel Souza
 
-Desenvolvedor com foco em Back-End Java e Spring Boot, formado em Análise e Desenvolvimento de Sistemas.
+Desenvolvedor Back-End Java com formação em Análise e Desenvolvimento de Sistemas.
 
-Atuo no desenvolvimento de APIs REST, integração com bancos de dados relacionais e implementação de testes automatizados. Também desenvolvo aplicações Full Stack com React, mantendo o backend como principal especialidade.
+Tenho foco na construção de APIs REST com Spring Boot, integração com bancos de dados relacionais, testes automatizados e containerização com Docker. Também possuo experiência complementar no desenvolvimento Full Stack com React.
+
+Neste perfil você encontrará projetos voltados para boas práticas de desenvolvimento, organização de código e construção de aplicações escaláveis.
 
 ## Minhas redes
 
