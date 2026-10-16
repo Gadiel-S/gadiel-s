@@ -34,10 +34,10 @@ Neste perfil você encontrará projetos voltados para boas práticas de desenvol
   />
 </a>
 
-<a href="https://github.com/Gadiel-S/rest-with-spring-boot">
+<a href="https://github.com/Gadiel-S/simulador_investimentos">
   <img
-    src="https://opengraph.githubassets.com/1/Gadiel-S/rest-with-spring-boot"
-    alt="Rest with Spring Boot"
+    src="https://opengraph.githubassets.com/1/Gadiel-S/simulador_investimentos"
+    alt="Simulador Investimentos"
     width="400"
   />
 </a>
